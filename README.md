@@ -9,7 +9,7 @@ pip install django_admin_bootstrapped
 pip install unipath
 
 # Config no NGIX
-
+```config
 location /static {
         proxy_pass http://localhost:8888;
         proxy_http_version 1.1;
