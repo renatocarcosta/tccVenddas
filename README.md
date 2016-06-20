@@ -1,7 +1,7 @@
 # Sistema Simples de Vendas
 
 @Instalacao:
-git clone https://github.com/douglassironi/vendas_django.git
+git clone https://github.com/renatocarcosta/tccVenddas.git
 
 # No servidor
 pip install django
